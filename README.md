@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaryaNeskor
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning QA testing
+- 🌱 I’m currently QA tester
 - 💞️ I’m looking to collaborate :)
 - 📫 How to reach me darya.neskor@gmail.com
 
